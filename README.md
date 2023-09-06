@@ -1,7 +1,7 @@
 # Module5_Challenge
 # Module5_Challenge
 
-# I refered to the following websites and book listed in the reference, understand some calculations and the errors that I made, in addition to the classroom materials.
+# I refered to the following websites and the book listed in the reference, to understand some calculations and the errors that I made, in addition to the classroom materials.
 # Reference
 # pandas.pydata.org. (n.d.). Chart Visualization — pandas 1.4.2 documentation. [online] Available at: https://pandas.pydata.org/docs/user_guide/visualization.html.
 
